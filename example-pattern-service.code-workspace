@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "cmd"
+		},
+		{
+			"path": "pkg"
+		},
+		{
+			"path": "internal"
+		}
+	],
+	"settings": {}
+}
